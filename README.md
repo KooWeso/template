@@ -37,6 +37,7 @@ rules: {
 
 <details>
   <summary>Try yourself</summary>
+
 ### First
 
 Creates .husky folder
