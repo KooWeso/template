@@ -35,7 +35,7 @@ rules: {
 [🐶 get started page](https://typicode.github.io/husky/get-started.html)
 
 
-</details>
+<details>
   <summary>Try yourself</summary>
 ### First
 
