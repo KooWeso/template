@@ -34,6 +34,9 @@ rules: {
 
 [🐶 get started page](https://typicode.github.io/husky/get-started.html)
 
+
+</details>
+  <summary>Try yourself</summary>
 ### First
 
 Creates .husky folder
@@ -63,3 +66,4 @@ Create file `pre-commit` inside folder `.husky`
 Add `npx lint-staged` inside file `pre-commit`
 
 **Try to Commit**
+</details>
